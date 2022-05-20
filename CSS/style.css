@@ -33,7 +33,7 @@ body{
     position: relative;
     height: 250px;
     width: 250px;
-    background-color: #ffff00;
+    /* background-color: #ffff00; */
     border-radius: 50%;
     display: grid;
     place-items: center;
