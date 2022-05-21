@@ -1,7 +1,7 @@
 let progressBar = document.querySelector('.circular-progress');
 
 // declaramos variable progressBar aplicando un query selector
-// este selector querySelector selecciona el elemento con un selectos css devolviendo el primer elemento que conincida
+// este selector querySelector selecciona el elemento con un selectos css devolviendo el primer elemento que coincida
 
 let valueContainer = document.querySelector('.value-container');
 
